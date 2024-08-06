@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+button {
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  font-size: 16px;
+  font-weight: 600px;
+  background-color: grey;
+  color: white;
+}
+.gery {
+  background-color: rgb(239, 133, 3);
+}
+.display {
+  font-size: 30px;
+  color: white;
+}
